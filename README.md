@@ -65,7 +65,7 @@ http://localhost:7071/api/scraping_function
 HTTP function to fetch data	✅ Completed
 SQL insert with retry logic	✅ Completed
 Logging	                    ✅ Basic
-Deployment to Azure	        ✅ Pending
+Deployment to Azure	        ✅ Completed
 `````
 
 ## Project Highlights
